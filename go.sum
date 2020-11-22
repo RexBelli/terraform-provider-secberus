@@ -37,6 +37,8 @@ github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym
 github.com/RexBelli/go-secberus v0.0.0-20201119023839-06b8b3ab94ce h1:DFxcbjL/OBvrmNTa9YLqEtjonxBCy446CUWJqx8kKPA=
 github.com/RexBelli/go-secberus v0.0.0-20201119024355-eac22371d346 h1:7NgYHWkCiz1SxdODVnC8l76jtQRIjk8BRbhtWBPpTks=
 github.com/RexBelli/go-secberus v0.0.0-20201119024355-eac22371d346/go.mod h1:gid6OEYKl7zc35Uv547N8gUFCIu3hYAA0svpBxnrzY8=
+github.com/RexBelli/go-secberus v0.0.0-20201121023444-5894ca505d1a h1:e43GQSJa2/0NJ3uediXHeMcAaYcy3uvQqm2P5nNKKzo=
+github.com/RexBelli/go-secberus v0.0.0-20201121023444-5894ca505d1a/go.mod h1:yu+I4RhqJ57niTfy8gGYNjdqgpMKgIVdfrkblRZbyZ4=
 github.com/agext/levenshtein v1.2.1/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
 github.com/agext/levenshtein v1.2.2 h1:0S/Yg6LYmFJ5stwQeRp6EeOcCbj7xiqQSdNelsXvaqE=
 github.com/agext/levenshtein v1.2.2/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
